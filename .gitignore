@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+ENV/
+
+# Logs & Data exports
+*.log
+*.csv
